@@ -10,6 +10,7 @@ Demo
 
 For a fancy glow effect that fades in and out, use the following code:
 
+```javascript
 $(document).ready(function() {
     $("#basic").click(function() { 
         $('.text').animate({color: "#ffffff;", textShadow: "0 0 15px #ccc;"}, 
@@ -20,6 +21,6 @@ $(document).ready(function() {
         );
     });
 });?
-
+```
 
 Demo available at: http://jsfiddle.net/barrychapman/dQ92X/
