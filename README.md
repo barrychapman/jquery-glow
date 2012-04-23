@@ -20,7 +20,7 @@ $(document).ready(function() {
             }
         );
     });
-});?
+});
 ```
 
 Demo available at: http://jsfiddle.net/barrychapman/dQ92X/
